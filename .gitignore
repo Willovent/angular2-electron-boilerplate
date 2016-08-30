@@ -1,0 +1,9 @@
+angular-app/tmp
+angular-app/node_modules
+angular-app/e2e/*.js
+angular-app/e2e/*.map
+angular-app/typings
+.DS_Store
+Thumbs.db
+electron-app/app
+electron-app/node_modules
